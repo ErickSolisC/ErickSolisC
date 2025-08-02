@@ -1,5 +1,19 @@
 # 💫 About Me:
-Bienvenido a mi GitHub<br>Soy un desarrollador full-stack con una sólida base en la creación de aplicaciones web y soluciones en la nube, utilizando tecnologías modernas tanto en el backend como en el frontend. Mi enfoque en el desarrollo incluye Node.js con TypeScript, PHP con Laravel, y Spring Boot para la construcción de servicios robustos, escalables y mantenibles.<br><br>En el frontend, utilizo Angular y React para crear aplicaciones altamente interactivas y dinámicas, apoyado en CSS3, Bootstrap 4/5 y Sass para ofrecer interfaces atractivas y fáciles de usar.<br><br>Tengo experiencia con bases de datos como SQL Server, MySQL, Oracle y PostgreSQL, lo que me permite diseñar, optimizar y gestionar grandes volúmenes de datos de forma eficiente. Además, soy un firme usuario de AWS, donde implemento y gestiono aplicaciones en la nube utilizando una variedad de servicios, garantizando soluciones escalables y seguras.<br><br>Mis principales competencias:<br>Backend: Node.js (TypeScript), PHP (Laravel), Spring Boot, Express.js<br>Frontend: Angular, React, CSS3, Sass, Bootstrap 4/5<br>Bases de datos: SQL Server, MySQL, Oracle, PostgreSQL<br>Cloud y DevOps:<br>AWS: Lambda, S3, CloudFormation, API Gateway, RDS, EC2, IAM, SQS, SNS<br>DevOps: CI/CD Pipelines (Jenkins, GitLab CI), Docker, Kubernetes, Terraform, AWS CodePipeline, AWS CodeBuild<br>Gustos y pasiones:<br>Me apasiona la automatización de procesos y el desarrollo de soluciones en la nube que puedan escalar fácilmente y ser gestionadas de manera eficiente. Me encanta experimentar con nuevas tecnologías, sobre todo en el ámbito de AWS, y seguir mejorando en la integración de servicios en DevOps. Disfruto colaborar en proyectos open-source, aprender constantemente y compartir conocimientos con la comunidad.
+Bienvenido a mi perfil 👋<br><br>
+Soy un desarrollador full-stack con una sólida base en la creación de aplicaciones web y soluciones en la nube, utilizando tecnologías modernas tanto en el backend como en el frontend.<br><br>
+En el desarrollo backend, trabajo con Node.js (TypeScript), PHP (Laravel) y Spring Boot para construir servicios robustos, escalables y mantenibles. En el frontend, utilizo Angular y React para desarrollar interfaces dinámicas e interactivas, apoyado en CSS3, Sass y Bootstrap 4/5 para ofrecer experiencias atractivas y accesibles.<br><br>
+Tengo experiencia con bases de datos como SQL Server, MySQL, Oracle y PostgreSQL, lo que me permite diseñar y optimizar estructuras de datos eficientes. Además, soy un usuario activo de servicios en la nube, especialmente AWS, donde implemento y gestiono soluciones usando Lambda, S3, API Gateway, RDS, EC2, CloudFormation, IAM, entre otros.<br><br>
+También cuento con habilidades DevOps, incluyendo la creación de pipelines de CI/CD con Jenkins y GitLab CI, uso de contenedores con Docker y orquestación con Kubernetes, además de herramientas como Terraform, AWS CodePipeline y CodeBuild.<br><br>
+
+<strong>🛠️ Tecnologías y herramientas clave:</strong><br>
+🔹 <strong>Backend:</strong> Node.js (TypeScript), PHP (Laravel), Spring Boot, Express.js<br>
+🔹 <strong>Frontend:</strong> Angular, React, CSS3, Sass, Bootstrap 4/5<br>
+🔹 <strong>Bases de datos:</strong> SQL Server, MySQL, Oracle, PostgreSQL<br>
+🔹 <strong>Cloud:</strong> AWS (Lambda, S3, API Gateway, RDS, EC2, CloudFormation, IAM, SQS, SNS)<br>
+🔹 <strong>DevOps:</strong> CI/CD (Jenkins, GitLab CI), Docker, Kubernetes, Terraform, AWS CodePipeline, AWS CodeBuild<br><br>
+
+💡 <strong>Gustos y pasiones:</strong><br>
+Me apasiona la automatización de procesos y el desarrollo de soluciones cloud escalables y seguras. Disfruto experimentar con nuevas tecnologías, especialmente en el entorno de AWS, y mejorar continuamente en la integración de servicios DevOps. Además, valoro la colaboración en proyectos open-source, el aprendizaje constante y el intercambio de conocimientos con la comunidad.
 
 
 ## 🌐 Socials:
