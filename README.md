@@ -1,20 +1,50 @@
-# 💫 About Me:
-Bienvenido a mi perfil 👋<br><br>
-Soy un desarrollador full-stack con una sólida base en la creación de aplicaciones web y soluciones en la nube, utilizando tecnologías modernas tanto en el backend como en el frontend.<br><br>
-En el desarrollo backend, trabajo con Node.js (TypeScript), PHP (Laravel) y Spring Boot para construir servicios robustos, escalables y mantenibles. En el frontend, utilizo Angular y React para desarrollar interfaces dinámicas e interactivas, apoyado en CSS3, Sass y Bootstrap 4/5 para ofrecer experiencias atractivas y accesibles.<br><br>
-Tengo experiencia con bases de datos como SQL Server, MySQL, Oracle y PostgreSQL, lo que me permite diseñar y optimizar estructuras de datos eficientes. Además, soy un usuario activo de servicios en la nube, especialmente AWS, donde implemento y gestiono soluciones usando Lambda, S3, API Gateway, RDS, EC2, CloudFormation, IAM, entre otros.<br><br>
-También cuento con habilidades DevOps, incluyendo la creación de pipelines de CI/CD con Jenkins y GitLab CI, uso de contenedores con Docker y orquestación con Kubernetes, además de herramientas como Terraform, AWS CodePipeline y CodeBuild.<br><br>
+<h2>💫 Sobre mí</h2>
 
-<strong>🛠️ Tecnologías y herramientas clave:</strong><br>
-🔹 <strong>Backend:</strong> Node.js (TypeScript), PHP (Laravel), Spring Boot, Express.js<br>
-🔹 <strong>Frontend:</strong> Angular, React, CSS3, Sass, Bootstrap 4/5<br>
-🔹 <strong>Bases de datos:</strong> SQL Server, MySQL, Oracle, PostgreSQL<br>
-🔹 <strong>Cloud:</strong> AWS (Lambda, S3, API Gateway, RDS, EC2, CloudFormation, IAM, SQS, SNS)<br>
-🔹 <strong>DevOps:</strong> CI/CD (Jenkins, GitLab CI), Docker, Kubernetes, Terraform, AWS CodePipeline, AWS CodeBuild<br><br>
+<p>
+Soy desarrollador full-stack con experiencia en la creación de aplicaciones web modernas y soluciones cloud escalables. Aporto un enfoque integral al desarrollo de software, participando activamente en todas las etapas del ciclo de vida del producto: desde la arquitectura y el diseño hasta la implementación, despliegue y mantenimiento.
+</p>
 
-💡 <strong>Gustos y pasiones:</strong><br>
-Me apasiona la automatización de procesos y el desarrollo de soluciones cloud escalables y seguras. Disfruto experimentar con nuevas tecnologías, especialmente en el entorno de AWS, y mejorar continuamente en la integración de servicios DevOps. Además, valoro la colaboración en proyectos open-source, el aprendizaje constante y el intercambio de conocimientos con la comunidad.
+<p>
+En el backend, trabajo principalmente con Node.js (TypeScript), PHP (Laravel), Java (Spring Boot) y Python. Me especializo en el desarrollo de APIs RESTful, microservicios y arquitecturas orientadas a eventos, priorizando la escalabilidad, la mantenibilidad y el rendimiento.
+</p>
 
+<p>
+En el frontend, desarrollo interfaces modernas, responsivas y centradas en la experiencia de usuario utilizando tecnologías como Angular, React, Vue.js y Next.js. También tengo experiencia con jQuery y PHP en aplicaciones monolíticas, así como en el uso de herramientas de diseño como Sass, Bootstrap y CSS3 para construir componentes reutilizables y accesibles.
+</p>
+
+<p>
+En bases de datos, trabajo tanto con sistemas relacionales (SQL Server, MySQL, Oracle, PostgreSQL) como con NoSQL, especialmente DynamoDB, adaptando la arquitectura de datos según los requerimientos funcionales y de rendimiento de cada proyecto.
+</p>
+
+<p>
+En el ámbito cloud, tengo experiencia consolidada en Amazon Web Services (AWS), donde diseño, implemento y gestiono soluciones de infraestructura y aplicaciones usando servicios como Lambda, AppSync, Cognito, API Gateway, RDS, EC2, ECS, EKS, Fargate, CloudFront, Step Functions, EventBridge, Secrets Manager, CloudWatch, Glue, Athena, Quicksight, entre otros. Trabajo con arquitecturas serverless, basadas en microservicios y contenedores.
+</p>
+
+<p>
+En DevOps, aplico prácticas de integración y entrega continua utilizando Jenkins, GitLab CI y herramientas como Docker, Kubernetes, Terraform y AWS CodePipeline. Esto me permite asegurar despliegues consistentes, seguros y escalables.
+</p>
+
+<p>
+Trabajo habitualmente en equipos ágiles bajo la metodología <strong>Scrum</strong>, con foco en la entrega continua de valor, la mejora iterativa y la colaboración entre roles técnicos y de negocio.
+</p>
+
+<h3>🎯 Competencias clave:</h3>
+
+<ul>
+  <li><strong>Lenguajes de programación:</strong> TypeScript, JavaScript, Python, PHP, Java</li>
+  <li><strong>Backend:</strong> Node.js (TypeScript), Laravel (PHP), Spring Boot (Java), Python (Flask / FastAPI), Express.js</li>
+  <li><strong>Frontend:</strong> Angular, React, Vue.js, Next.js, jQuery, PHP (monolítico), CSS3, Sass, Bootstrap 4/5</li>
+  <li><strong>Bases de datos:</strong> SQL Server, MySQL, Oracle, PostgreSQL, DynamoDB</li>
+  <li><strong>Cloud (AWS):</strong> Lambda, API Gateway, AppSync, Cognito, RDS, EC2, ECS, EKS, Fargate, S3, CloudFront, Secrets Manager, CloudWatch, Step Functions, EventBridge, Glue, Athena, Quicksight, CloudFormation, IAM, SQS, SNS</li>
+  <li><strong>DevOps / Infraestructura:</strong> CI/CD (Jenkins, GitLab CI), Docker, Kubernetes, Terraform, AWS CodePipeline, CodeBuild, CodeDeploy</li>
+  <li><strong>Metodologías ágiles:</strong> Scrum</li>
+</ul>
+
+<h3>🚀 Lo que me motiva:</h3>
+
+<p>
+Me apasiona la creación de soluciones cloud eficientes, automatizadas y escalables. Disfruto integrar tecnologías que optimicen procesos, mejoren la calidad del software y simplifiquen el mantenimiento. Me interesa especialmente el entorno de AWS y el enfoque DevOps como puente entre el desarrollo ágil y la operación confiable. Estoy comprometido con el aprendizaje constante, la mejora continua y la colaboración en entornos técnicos y comunidades abiertas.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erick-amado-solis-cux%C3%BAn-2b091a222/) 
